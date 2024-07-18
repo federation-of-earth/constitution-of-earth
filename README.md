@@ -35,14 +35,5 @@ This Constitution serves as the supreme law of the Federation of Earth. It shoul
 3. Protecting individual and collective rights
 4. Guiding global policy decisions
 
-## Contributing
-While this Constitution provides a framework for amendments, any changes must follow the prescribed constitutional amendment process outlined in Chapter VII.
-
-## Implementation
-The ratification and implementation process is detailed in Chapter XII. All nations are required to ratify this Constitution for it to take effect.
-
 ## License
 This Constitution is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-## Contact
-For questions or concerns regarding this Constitution, please contact the Interim Secretariat of the Federation (contact details to be provided upon establishment).

@@ -1,7 +1,7 @@
-# Federal Constitution of Earth
+# Constitution of Earth
 
 ## Overview
-This repository contains the Federal Constitution of Earth, a comprehensive framework for global governance. It establishes a unified federal system for our planet, balancing global cooperation with respect for national sovereignty and individual rights.
+This repository contains the Constitution of Earth, a comprehensive framework for global governance. It establishes a unified federal system for our planet, balancing global cooperation with respect for national sovereignty and individual rights.
 
 ## Key Features
 

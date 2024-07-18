@@ -67,7 +67,7 @@ The Premier shall not receive within their Term of Office any other Emolument fr
 
 Prior to assuming the Duties of the Office, the Premier-elect shall take the following Oath or Affirmation:
 
-"I do solemnly swear (or affirm) that I will faithfully execute the Office of Premier of Earth, and will to the best of my Ability, preserve, protect and defend the Federal Constitution of Earth."
+"I do solemnly swear (or affirm) that I will faithfully execute the Office of Premier of Earth, and will to the best of my Ability, preserve, protect and defend the Constitution of Earth."
 
 ## Article 2: Election of the Premier and Vice Premier
 

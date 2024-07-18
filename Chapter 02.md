@@ -446,7 +446,7 @@ The annual session shall commence on the first Monday of December, unless an alt
 No individual shall be eligible to:
 
 1. Serve as a Senator or Representative in the World Congress; or
-2. Hold any office, whether civil or military, under the authority of the Federation or any Nation thereof, if such individual, having previously sworn an oath to support the Federal Constitution of Earth in any of the following capacities:
+2. Hold any office, whether civil or military, under the authority of the Federation or any Nation thereof, if such individual, having previously sworn an oath to support the Constitution of Earth in any of the following capacities:
     1. As a member of the World Congress;
     2. As an officer of the Federation;
     3. As a member of any National legislature; or
@@ -472,7 +472,7 @@ No religious test shall ever be required as a qualification for any Office or pu
 
 Prior to the commencement of their official duties, each person specified in Subsection 1 of this Section shall take the following Oath or Affirmation:
 
-"I, \[state name\], do solemnly swear (or affirm) that I will support and defend the Federal Constitution of Earth against all enemies, alien and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me Sol."
+"I, \[state name\], do solemnly swear (or affirm) that I will support and defend the Constitution of Earth against all enemies, alien and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me Sol."
 
 #### Subsection 4: Administration of Oath
 

@@ -27,13 +27,5 @@ The Constitution is divided into the following chapters:
 11. Digital Constitutional Platform
 12. Ratification and Establishment
 
-## Usage
-This Constitution serves as the supreme law of the Federation of Earth. It should be used as the primary reference for:
-
-1. Establishing and maintaining government institutions
-2. Enacting and interpreting laws
-3. Protecting individual and collective rights
-4. Guiding global policy decisions
-
 ## License
 This Constitution is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
